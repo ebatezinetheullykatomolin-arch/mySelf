@@ -68,3 +68,22 @@ section h2 {
     color: #d4a017;
     font-family: Georgia, serif;
 }
+
+.hobbies {
+    background-color: #fff4e6;
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 12px;
+}
+
+.hobbies h2 {
+    color: #d4a017;
+    font-family: Georgia, serif;
+    margin-bottom: 15px;
+}
+
+.hobbies p {
+    color: #444;
+    line-height: 1.8;
+}
