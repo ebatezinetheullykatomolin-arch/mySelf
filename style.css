@@ -57,3 +57,14 @@ p {
         text-align: center;
     }
 }
+
+/* New Hobbies Section */
+section {
+    padding: 30px;
+    text-align: center;
+}
+
+section h2 {
+    color: #d4a017;
+    font-family: Georgia, serif;
+}
